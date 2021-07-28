@@ -1,0 +1,3 @@
+rootProject.name = "DFLS"
+include ':app'
+include ':autostarter'
